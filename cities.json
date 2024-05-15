@@ -1,0 +1,488 @@
+[
+    {
+      "title": "Ādaži",
+      "year": 2022,
+      "population": 7482,
+      "region": "Ādažu novads"
+    },
+    {
+      "title": "Ainaži",
+      "year": 1926,
+      "population": 701,
+      "region": "Limbažu novads"
+    },
+    {
+      "title": "Aizkraukle",
+      "year": 1967,
+      "population": 7198,
+      "region": "Aizkraukles novads"
+    },
+    {
+      "title": "Aizpute",
+      "year": 1378,
+      "population": 4128,
+      "region": "Dienvidkurzemes novads"
+    },
+    {
+      "title": "Aknīste",
+      "year": 1991,
+      "population": 995,
+      "region": "Jēkabpils novads"
+    },
+    {
+      "title": "Aloja",
+      "year": 1992,
+      "population": 1073,
+      "region": "Limbažu novads"
+    },
+    {
+      "title": "Alūksne",
+      "year": 1920,
+      "population": 6945,
+      "region": "Alūksnes novads"
+    },
+    {
+      "title": "Ape",
+      "year": 1928,
+      "population": 832,
+      "region": "Smiltenes novads"
+    },
+    {
+      "title": "Auce",
+      "year": 1924,
+      "population": 2360,
+      "region": "Dobeles novads"
+    },
+    {
+      "title": "Baldone",
+      "year": 1991,
+      "population": 3789,
+      "region": "Ķekavas novads"
+    },
+    {
+      "title": "Baloži",
+      "year": 1991,
+      "population": 6992,
+      "region": "Ķekavas novads"
+    },
+    {
+      "title": "Balvi",
+      "year": 1928,
+      "population": 6103,
+      "region": "Balvu novads"
+    },
+    {
+      "title": "Bauska",
+      "year": 1609,
+      "population": 10202,
+      "region": "Bauskas novads"
+    },
+    {
+      "title": "Brocēni",
+      "year": 1992,
+      "population": 3009,
+      "region": "Saldus novads"
+    },
+    {
+      "title": "Cēsis",
+      "year": 1323,
+      "population": 16190,
+      "region": "Cēsu novads"
+    },
+    {
+      "title": "Cesvaine",
+      "year": 1991,
+      "population": 1280,
+      "region": "Madonas novads"
+    },
+    {
+      "title": "Dagda",
+      "year": 1992,
+      "population": 1887,
+      "region": "Krāslavas novads"
+    },
+    {
+      "title": "Daugavpils",
+      "year": 1582,
+      "population": 86872,
+      "region": "Daugavpils"
+    },
+    {
+      "title": "Dobele",
+      "year": 1917,
+      "population": 9031,
+      "region": "Dobeles novads"
+    },
+    {
+      "title": "Durbe",
+      "year": 1893,
+      "population": 520,
+      "region": "Dienvidkurzemes novads"
+    },
+    {
+      "title": "Grobiņa",
+      "year": 1695,
+      "population": 3778,
+      "region": "Dienvidkurzemes novads"
+    },
+    {
+      "title": "Gulbene",
+      "year": 1928,
+      "population": 7171,
+      "region": "Gulbenes novads"
+    },
+    {
+      "title": "Iecava",
+      "year": 2021,
+      "population": 5677,
+      "region": "Bauskas novads"
+    },
+    {
+      "title": "Ikšķile",
+      "year": 1992,
+      "population": 7698,
+      "region": "Ogres novads"
+    },
+    {
+      "title": "Ilūkste",
+      "year": 1917,
+      "population": 2312,
+      "region": "Augšdaugavas novads"
+    },
+    {
+      "title": "Jaunjelgava",
+      "year": 1647,
+      "population": 1825,
+      "region": "Aizkraukles novads"
+    },
+    {
+      "title": "Jēkabpils novads",
+      "year": 1670,
+      "population": 22134,
+      "region": "Jēkabpils"
+    },
+    {
+      "title": "Jelgava",
+      "year": 1573,
+      "population": 58154,
+      "region": "Jelgavas valstspilsēta"
+    },
+    {
+      "title": "Jūrmala",
+      "year": 1959,
+      "population": 56862,
+      "region": "Jūrmalas valstspilsēta"
+    },
+    {
+      "title": "Kandava",
+      "year": 1917,
+      "population": 3501,
+      "region": "Tukuma novads"
+    },
+    {
+      "title": "Kārsava",
+      "year": 1928,
+      "population": 1970,
+      "region": "Ludzas novads"
+    },
+    {
+      "title": "Koknese",
+      "year": 1277,
+      "population": 2562,
+      "region": "Aizkraukles novads"
+    },
+    {
+      "title": "Krāslava",
+      "year": 1923,
+      "population": 7771,
+      "region": "Krāslavas novads"
+    },
+    {
+      "title": "Kuldīga",
+      "year": 1378,
+      "population": 10395,
+      "region": "Kuldīgas novads"
+    },
+    {
+      "title": "Ķegums",
+      "year": 1993,
+      "population": 2147,
+      "region": "Ogres novads"
+    },
+    {
+      "title": "Ķekava",
+      "year": 2022,
+      "population": 5190,
+      "region": "Ķekavas novads"
+    },
+    {
+      "title": "Lielvārde",
+      "year": 1992,
+      "population": 6085,
+      "region": "Ogres novads"
+    },
+    {
+      "title": "Liepāja",
+      "year": 1625,
+      "population": 73333,
+      "region": "Liepājas valstspilsēta"
+    },
+    {
+      "title": "Līgatne",
+      "year": 1993,
+      "population": 1092,
+      "region": "Cēsu novads"
+    },
+    {
+      "title": "Limbaži",
+      "year": 1385,
+      "population": 7059,
+      "region": "Limbažu novads"
+    },
+    {
+      "title": "Līvāni",
+      "year": 1926,
+      "population": 7388,
+      "region": "Līvānu novads"
+    },
+    {
+      "title": "Lubāna",
+      "year": 1992,
+      "population": 1555,
+      "region": "Madonas novads"
+    },
+    {
+      "title": "Ludza",
+      "year": 1777,
+      "population": 7767,
+      "region": "Ludzas novads"
+    },
+    {
+      "title": "Madona",
+      "year": 1926,
+      "population": 7129,
+      "region": "Madonas novads"
+    },
+    {
+      "title": "Mazsalaca",
+      "year": 1928,
+      "population": 1143,
+      "region": "Valmieras novads"
+    },
+    {
+      "title": "Mārupe",
+      "year": 2022,
+      "population": 17796,
+      "region": "Mārupes novads"
+    },
+    {
+      "title": "Ogre",
+      "year": 1928,
+      "population": 24075,
+      "region": "Ogres novads"
+    },
+    {
+      "title": "Olaine",
+      "year": 1967,
+      "population": 10475,
+      "region": "Olaines novads"
+    },
+    {
+      "title": "Pāvilosta",
+      "year": 1991,
+      "population": 850,
+      "region": "Dienvidkurzemes novads"
+    },
+    {
+      "title": "Piltene",
+      "year": 1557,
+      "population": 877,
+      "region": "Ventspils novads"
+    },
+    {
+      "title": "Pļaviņas",
+      "year": 1927,
+      "population": 2950,
+      "region": "Aizkraukles novads"
+    },
+    {
+      "title": "Preiļi",
+      "year": 1928,
+      "population": 6326,
+      "region": "Preiļu novads"
+    },
+    {
+      "title": "Priekule",
+      "year": 1928,
+      "population": 1912,
+      "region": "Dienvidkurzemes novads"
+    },
+    {
+      "title": "Rēzekne",
+      "year": 1773,
+      "population": 28785,
+      "region": "Rēzeknes valstspilsēta"
+    },
+    {
+      "title": "Rīga",
+      "year": 1225,
+      "population": 655090,
+      "region": "Rīgas valstspilsēta"
+    },
+    {
+      "title": "Rūjiena",
+      "year": 1920,
+      "population": 2766,
+      "region": "Valmieras novads"
+    },
+    {
+      "title": "Sabile",
+      "year": 1917,
+      "population": 1430,
+      "region": "Talsu novads"
+    },
+    {
+      "title": "Salacgrīva",
+      "year": 1928,
+      "population": 2624,
+      "region": "Limbažu novads"
+    },
+    {
+      "title": "Salaspils",
+      "year": 1993,
+      "population": 18602,
+      "region": "Salaspils novads"
+    },
+    {
+      "title": "Saldus",
+      "year": 1917,
+      "population": 10168,
+      "region": "Saldus novads"
+    },
+    {
+      "title": "Saulkrasti",
+      "year": 1991,
+      "population": 3430,
+      "region": "Saulkrastu novads"
+    },
+    {
+      "title": "Seda",
+      "year": 1991,
+      "population": 1197,
+      "region": "Valmieras novads"
+    },
+    {
+      "title": "Sigulda",
+      "year": 1928,
+      "population": 14817,
+      "region": "Siguldas novads"
+    },
+    {
+      "title": "Skrunda",
+      "year": 1996,
+      "population": 1985,
+      "region": "Kuldīgas novads"
+    },
+    {
+      "title": "Smiltene",
+      "year": 1920,
+      "population": 5334,
+      "region": "Smiltenes novads"
+    },
+    {
+      "title": "Staicele",
+      "year": 1992,
+      "population": 861,
+      "region": "Limbažu novads"
+    },
+    {
+      "title": "Stende",
+      "year": 1991,
+      "population": 1605,
+      "region": "Talsu novads"
+    },
+    {
+      "title": "Strenči",
+      "year": 1928,
+      "population": 1042,
+      "region": "Valmieras novads"
+    },
+    {
+      "title": "Subate",
+      "year": 1917,
+      "population": 591,
+      "region": "Augšdaugavas novads"
+    },
+    {
+      "title": "Talsi",
+      "year": 1917,
+      "population": 9350,
+      "region": "Talsu novads"
+    },
+    {
+      "title": "Tukums",
+      "year": 1795,
+      "population": 17572,
+      "region": "Tukuma novads"
+    },
+    {
+      "title": "Valdemārpils",
+      "year": 1917,
+      "population": 1234,
+      "region": "Talsu novads"
+    },
+    {
+      "title": "Valka",
+      "year": 1584,
+      "population": 4935,
+      "region": "Valkas novads"
+    },
+    {
+      "title": "Valmieras novads",
+      "year": 1323,
+      "population": 24269,
+      "region": "Valmieras novads"
+    },
+    {
+      "title": "Vangaži",
+      "year": 1991,
+      "population": 3512,
+      "region": "Ropažu novads"
+    },
+    {
+      "title": "Varakļāni",
+      "year": 1928,
+      "population": 1755,
+      "region": "Varakļānu novads"
+    },
+    {
+      "title": "Ventspils",
+      "year": 1378,
+      "population": 35660,
+      "region": "Ventspils valstspilsēta"
+    },
+    {
+      "title": "Viesīte",
+      "year": 1928,
+      "population": 1530,
+      "region": "Jēkabpils novads"
+    },
+    {
+      "title": "Viļaka",
+      "year": 1945,
+      "population": 1245,
+      "region": "Balvu novads"
+    },
+    {
+      "title": "Viļāni",
+      "year": 1928,
+      "population": 2831,
+      "region": "Rēzeknes novads"
+    },
+    {
+      "title": "Zilupe",
+      "year": 1931,
+      "population": 1369,
+      "region": "Ludzas novads"
+    }
+  ]
